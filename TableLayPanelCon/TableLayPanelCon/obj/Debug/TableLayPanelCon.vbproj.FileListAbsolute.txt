@@ -1,0 +1,11 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\bin\Debug\TableLayPanelCon.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\bin\Debug\TableLayPanelCon.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\bin\Debug\TableLayPanelCon.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\bin\Debug\TableLayPanelCon.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 1\TableLayPanelCon\TableLayPanelCon\obj\Debug\TableLayPanelCon.pdb
